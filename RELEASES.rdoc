@@ -1,3 +1,11 @@
+= 6.3.2
+
+Released 2014-02-16
+
+== Bug Fixes
+* Fix support for external proxies set via rs_agent:http_proxy tag on Linux.
+* Additional fix for vSphere stuck in booting issues if hypervisor and instance time are mismatched.
+
 = 6.3.1
 
 Released 2014-01-26
